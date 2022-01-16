@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'UtoChoColatLatte';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/utoChocolatlatte/UtoChoColatLatte.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/utoChocolatlatte/UtoChoColatLatte.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/utoChocolatlatte/UtoChoColatLatte.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/utoChocolatlatte/UtoChoColatLatte.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/utoChocolatlatte/UtoChoColatLatte.ttf') format("truetype");
+    font-display: swap;
+}
